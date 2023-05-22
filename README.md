@@ -6,7 +6,7 @@
 
 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 
 ---
 
