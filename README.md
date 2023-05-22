@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Menom!
 
-![Twitter URL](https://twitter.com/menom_79)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=menom_79)
 
 <!--
 **menom79/menom79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
